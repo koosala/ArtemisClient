@@ -1,0 +1,208 @@
+2018-07-24 10:50:50,578 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:50:36 AM
+2018-07-24 10:50:50,599 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:50:50,633 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:50:38 AM
+2018-07-24 10:50:50,634 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:50:50,635 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:50:40 AM
+2018-07-24 10:50:50,636 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:51:03,641 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:51:03 AM
+2018-07-24 10:51:03,667 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:51:42,286 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:51:42 AM
+2018-07-24 10:51:42,287 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:52:08,095 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:52:08 AM
+2018-07-24 10:52:08,096 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:52:10,067 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:52:10 AM
+2018-07-24 10:52:10,067 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:52:20,839 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:52:20 AM
+2018-07-24 10:52:20,840 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:53:29,972 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:52:47 AM
+2018-07-24 10:53:29,989 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:53:30,031 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:52:49 AM
+2018-07-24 10:53:30,031 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:53:30,032 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:52:51 AM
+2018-07-24 10:53:30,032 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:54:43,519 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:54:43 AM
+2018-07-24 10:54:43,519 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-24 10:54:45,526 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/24/2018 10:54:45 AM
+2018-07-24 10:54:45,526 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-28 20:46:48,310 [6] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/28/2018 8:46:48 PM
+2018-07-28 20:46:48,335 [6] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-28 20:47:16,041 [6] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/28/2018 8:47:16 PM
+2018-07-28 20:47:16,043 [6] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-28 21:13:58,626 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND AMQP {0}, args
+2018-07-28 21:13:58,653 [4] INFO  ArtemisLib.Subscriber [(null)] - 3 1 0 0
+2018-07-28 21:13:58,676 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV {0}, args
+2018-07-28 21:13:58,679 [4] INFO  ArtemisLib.Subscriber [(null)] - sasl-mechanisms(sasl-server-mechanisms:[PLAIN,ANONYMOUS])
+2018-07-28 21:13:58,687 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND {0}, args
+2018-07-28 21:13:58,688 [4] INFO  ArtemisLib.Subscriber [(null)] - sasl-init(mechanism:PLAIN,initial-response:...,hostname:localhost)
+2018-07-28 21:13:58,699 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV {0}, args
+2018-07-28 21:13:58,700 [11] INFO  ArtemisLib.Subscriber [(null)] - sasl-outcome(code:0)
+2018-07-28 21:13:58,704 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND AMQP 0 1.0.0, args
+2018-07-28 21:13:58,706 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:13:58,706 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:13:58,707 [11] INFO  ArtemisLib.Subscriber [(null)] - open(container-id:client-1)
+2018-07-28 21:13:58,710 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV AMQP {0}, args
+2018-07-28 21:13:58,711 [4] INFO  ArtemisLib.Subscriber [(null)] - 0 1 0 0
+2018-07-28 21:13:58,715 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:13:58,716 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:13:58,716 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:13:58,716 [5] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:13:58,717 [11] INFO  ArtemisLib.Subscriber [(null)] - begin(next-outgoing-id:4294967293,incoming-window:2048,outgoing-window:2048,handle-max:63)
+2018-07-28 21:13:58,720 [5] INFO  ArtemisLib.Subscriber [(null)] - open(container-id:Local,max-frame-size:131072,channel-max:65535,idle-time-out:30000,offered-capabilities:[sole-connection-for-container,DELAYED_DELIVERY,SHARED-SUBS,ANONYMOUS-RELAY],properties:[product:apache-activemq-artemis,version:2.6.1.amq-720004-redhat-1])
+2018-07-28 21:13:58,725 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:13:58,726 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:13:58,728 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:13:58,729 [11] INFO  ArtemisLib.Subscriber [(null)] - attach(name:test-subscription,handle:0,role:True,source:source(address:test-topic,durable:2,expiry-policy:never,dynamic:False,default-outcome:modified(delivery-failed:True,undeliverable-here:False)),target:target())
+2018-07-28 21:13:58,729 [4] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:13:58,730 [4] INFO  ArtemisLib.Subscriber [(null)] - begin(remote-channel:0,next-outgoing-id:1,incoming-window:2147483647,outgoing-window:2147483647,handle-max:65535)
+2018-07-28 21:13:58,732 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:13:58,733 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:13:58,734 [11] INFO  ArtemisLib.Subscriber [(null)] - flow(next-in-id:0,in-window:2048,next-out-id:4294967293,out-window:2048,handle:0,delivery-count:0,link-credit:100,drain:False)
+2018-07-28 21:13:58,773 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:13:58,774 [4] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:13:58,774 [4] INFO  ArtemisLib.Subscriber [(null)] - attach(name:test-subscription,handle:0,role:False,snd-settle-mode:2,rcv-settle-mode:0,source:source(address:test-topic,durable:2,expiry-policy:never,timeout:0,dynamic:False,default-outcome:modified(delivery-failed:True,undeliverable-here:False)),target:target(),incomplete-unsettled:False,initial-delivery-count:0)
+2018-07-28 21:14:10,262 [10] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND AMQP {0}, args
+2018-07-28 21:14:10,298 [10] INFO  ArtemisLib.Subscriber [(null)] - 3 1 0 0
+2018-07-28 21:14:10,328 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV {0}, args
+2018-07-28 21:14:10,334 [5] INFO  ArtemisLib.Subscriber [(null)] - sasl-mechanisms(sasl-server-mechanisms:[PLAIN,ANONYMOUS])
+2018-07-28 21:14:10,345 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND {0}, args
+2018-07-28 21:14:10,347 [5] INFO  ArtemisLib.Subscriber [(null)] - sasl-init(mechanism:PLAIN,initial-response:...,hostname:localhost)
+2018-07-28 21:14:10,360 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV {0}, args
+2018-07-28 21:14:10,361 [5] INFO  ArtemisLib.Subscriber [(null)] - sasl-outcome(code:0)
+2018-07-28 21:14:10,367 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND AMQP 0 1.0.0, args
+2018-07-28 21:14:10,369 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:14:10,369 [5] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:14:10,370 [5] INFO  ArtemisLib.Subscriber [(null)] - open(container-id:client-1)
+2018-07-28 21:14:10,374 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV AMQP {0}, args
+2018-07-28 21:14:10,374 [8] INFO  ArtemisLib.Subscriber [(null)] - 0 1 0 0
+2018-07-28 21:14:10,380 [15] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:14:10,381 [15] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:14:10,383 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:14:10,383 [5] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:14:10,384 [15] INFO  ArtemisLib.Subscriber [(null)] - open(container-id:Local,max-frame-size:131072,channel-max:65535,idle-time-out:30000,offered-capabilities:[sole-connection-for-container,DELAYED_DELIVERY,SHARED-SUBS,ANONYMOUS-RELAY],properties:[product:apache-activemq-artemis,version:2.6.1.amq-720004-redhat-1])
+2018-07-28 21:14:10,384 [5] INFO  ArtemisLib.Subscriber [(null)] - begin(next-outgoing-id:4294967293,incoming-window:2048,outgoing-window:2048,handle-max:63)
+2018-07-28 21:14:10,397 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:14:10,397 [5] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:14:10,400 [5] INFO  ArtemisLib.Subscriber [(null)] - attach(name:test-subscription,handle:0,role:True,source:source(address:test-topic,durable:2,expiry-policy:never,dynamic:False,default-outcome:modified(delivery-failed:True,undeliverable-here:False)),target:target())
+2018-07-28 21:14:10,404 [5] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:14:10,405 [5] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:14:10,406 [5] INFO  ArtemisLib.Subscriber [(null)] - flow(next-in-id:0,in-window:2048,next-out-id:4294967293,out-window:2048,handle:0,delivery-count:0,link-credit:100,drain:False)
+2018-07-28 21:14:10,407 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:14:10,409 [4] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:14:10,410 [4] INFO  ArtemisLib.Subscriber [(null)] - begin(remote-channel:0,next-outgoing-id:1,incoming-window:2147483647,outgoing-window:2147483647,handle-max:65535)
+2018-07-28 21:14:10,487 [4] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:14:10,488 [4] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:14:10,489 [4] INFO  ArtemisLib.Subscriber [(null)] - attach(name:test-subscription,handle:0,role:False,snd-settle-mode:2,rcv-settle-mode:0,source:source(address:test-topic,durable:2,expiry-policy:never,timeout:0,dynamic:False,default-outcome:modified(delivery-failed:True,undeliverable-here:False)),target:target(),incomplete-unsettled:False,initial-delivery-count:0)
+2018-07-28 21:14:25,406 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:14:40,409 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:14:55,424 [14] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:15:10,438 [14] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:15:25,440 [14] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:15:40,455 [14] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:15:55,470 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:16:10,471 [10] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:16:25,486 [10] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:16:40,488 [15] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:16:55,502 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:17:10,501 [3] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:17:25,503 [10] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:17:40,520 [20] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:17:45,804 [17] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1} payload {2}, args
+2018-07-28 21:17:45,805 [17] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:17:45,807 [17] INFO  ArtemisLib.Subscriber [(null)] - transfer(handle:0,delivery-id:0,delivery-tag:00,message-format:0)
+2018-07-28 21:17:45,808 [17] INFO  ArtemisLib.Subscriber [(null)] - 133
+2018-07-28 21:17:45,836 [17] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: "AJAX"
+2018-07-28 21:17:45,837 [17] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-28 21:17:45,853 [17] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:17:45,853 [17] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:17:45,855 [17] INFO  ArtemisLib.Subscriber [(null)] - disposition(role:True,first:0,settled:True,state:accepted())
+2018-07-28 21:18:00,867 [20] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:18:15,876 [20] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:18:30,879 [20] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:18:45,892 [18] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:19:00,893 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:19:15,903 [10] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:19:30,913 [19] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:19:45,923 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:20:00,939 [15] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:20:15,954 [15] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:20:30,956 [10] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:20:45,956 [23] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:21:00,971 [24] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:21:15,985 [23] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:21:31,001 [15] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:21:46,002 [10] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:22:01,016 [15] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:25:44,477 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND AMQP {0}, args
+2018-07-28 21:25:44,506 [11] INFO  ArtemisLib.Subscriber [(null)] - 3 1 0 0
+2018-07-28 21:25:44,529 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV {0}, args
+2018-07-28 21:25:44,533 [11] INFO  ArtemisLib.Subscriber [(null)] - sasl-mechanisms(sasl-server-mechanisms:[PLAIN,ANONYMOUS])
+2018-07-28 21:25:44,543 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND {0}, args
+2018-07-28 21:25:44,544 [11] INFO  ArtemisLib.Subscriber [(null)] - sasl-init(mechanism:PLAIN,initial-response:...,hostname:localhost)
+2018-07-28 21:25:44,556 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV {0}, args
+2018-07-28 21:25:44,557 [11] INFO  ArtemisLib.Subscriber [(null)] - sasl-outcome(code:0)
+2018-07-28 21:25:44,563 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND AMQP 0 1.0.0, args
+2018-07-28 21:25:44,565 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:25:44,565 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:25:44,566 [11] INFO  ArtemisLib.Subscriber [(null)] - open(container-id:client-1)
+2018-07-28 21:25:44,571 [6] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV AMQP {0}, args
+2018-07-28 21:25:44,571 [6] INFO  ArtemisLib.Subscriber [(null)] - 0 1 0 0
+2018-07-28 21:25:44,576 [9] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:25:44,576 [9] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:25:44,578 [9] INFO  ArtemisLib.Subscriber [(null)] - open(container-id:Local,max-frame-size:131072,channel-max:65535,idle-time-out:30000,offered-capabilities:[sole-connection-for-container,DELAYED_DELIVERY,SHARED-SUBS,ANONYMOUS-RELAY],properties:[product:apache-activemq-artemis,version:2.6.1.amq-720004-redhat-1])
+2018-07-28 21:25:44,579 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:25:44,579 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:25:44,580 [11] INFO  ArtemisLib.Subscriber [(null)] - begin(next-outgoing-id:4294967293,incoming-window:2048,outgoing-window:2048,handle-max:63)
+2018-07-28 21:25:44,592 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:25:44,592 [8] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:25:44,593 [8] INFO  ArtemisLib.Subscriber [(null)] - begin(remote-channel:0,next-outgoing-id:1,incoming-window:2147483647,outgoing-window:2147483647,handle-max:65535)
+2018-07-28 21:25:44,595 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:25:44,596 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:25:44,606 [11] INFO  ArtemisLib.Subscriber [(null)] - attach(name:test-subscription,handle:0,role:True,source:source(address:test-topic,durable:2,expiry-policy:never,dynamic:False,default-outcome:modified(delivery-failed:True,undeliverable-here:False)),target:target())
+2018-07-28 21:25:44,610 [11] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch={0}) {1}, args
+2018-07-28 21:25:44,611 [11] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:25:44,612 [11] INFO  ArtemisLib.Subscriber [(null)] - flow(next-in-id:1,in-window:2048,next-out-id:4294967293,out-window:2147483647,handle:0,delivery-count:0,link-credit:100,drain:False)
+2018-07-28 21:25:44,658 [8] INFO  ArtemisLib.Subscriber [(null)] - Frame, RECV (ch={0}) {1}, args
+2018-07-28 21:25:44,659 [8] INFO  ArtemisLib.Subscriber [(null)] - 0
+2018-07-28 21:25:44,660 [8] INFO  ArtemisLib.Subscriber [(null)] - attach(name:test-subscription,handle:0,role:False,snd-settle-mode:2,rcv-settle-mode:0,source:source(address:test-topic,durable:2,expiry-policy:never,timeout:0,dynamic:False,default-outcome:modified(delivery-failed:True,undeliverable-here:False)),target:target(),incomplete-unsettled:False,initial-delivery-count:0)
+2018-07-28 21:25:59,636 [12] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:26:14,646 [13] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:26:29,659 [13] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:26:44,718 [12] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:26:59,724 [12] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:27:14,737 [14] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:27:29,738 [13] INFO  ArtemisLib.Subscriber [(null)] - Frame, SEND (ch=0) empty, args
+2018-07-28 21:27:56,747 [11] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-28 21:33:43,885 [8] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-28 21:34:26,318 [15] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: "AAAAA"
+2018-07-28 21:34:26,320 [15] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-28 21:38:16,583 [6] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-28 21:39:33,014 [10] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: 1235
+2018-07-28 21:39:33,014 [10] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-28 21:44:12,340 [8] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-29 06:44:32,172 [5] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-29 06:50:06,405 [10] INFO  ASP.global_asax [(null)] - Starting the connection at application start
+2018-07-29 06:50:07,637 [4] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-30 07:20:28,235 [8] INFO  ASP.global_asax [(null)] - Starting the connection at application start
+2018-07-30 07:20:29,536 [14] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-31 09:47:36,450 [1] INFO  ASP.global_asax [(null)] - Starting the connection at application start
+2018-07-31 09:47:37,485 [5] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-31 10:52:09,051 [1] INFO  ASP.global_asax [(null)] - Starting the connection at application start
+2018-07-31 10:52:09,771 [6] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-31 10:53:35,378 [1] INFO  ASP.global_asax [(null)] - Starting the connection at application start
+2018-07-31 10:53:36,256 [5] INFO  ArtemisLib.Subscriber [(null)] - Established a connection with the broker
+2018-07-31 10:53:36,313 [5] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/31/2018 10:52:57 AM
+2018-07-31 10:53:36,314 [5] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-31 10:53:36,391 [5] INFO  ArtemisLib.Subscriber [(null)] - started a long running job at 7/31/2018 10:53:36 AM
+2018-07-31 10:54:00,455 [5] INFO  ArtemisLib.Subscriber [(null)] - finished a long running job at 7/31/2018 10:54:00 AM
+2018-07-31 10:54:00,457 [5] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/31/2018 10:52:58 AM
+2018-07-31 10:54:00,457 [5] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-31 10:54:00,458 [5] INFO  ArtemisLib.Subscriber [(null)] - started a long running job at 7/31/2018 10:54:00 AM
+2018-07-31 10:54:22,906 [5] INFO  ArtemisLib.Subscriber [(null)] - finished a long running job at 7/31/2018 10:54:22 AM
+2018-07-31 10:54:22,907 [5] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/31/2018 10:53:00 AM
+2018-07-31 10:54:22,908 [5] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-31 10:54:22,909 [5] INFO  ArtemisLib.Subscriber [(null)] - started a long running job at 7/31/2018 10:54:22 AM
+2018-07-31 10:54:49,461 [5] INFO  ArtemisLib.Subscriber [(null)] - finished a long running job at 7/31/2018 10:54:49 AM
+2018-07-31 10:54:49,462 [5] INFO  ArtemisLib.Subscriber [(null)] - Called, and using the message: Hello AMQP! at time 7/31/2018 10:53:01 AM
+2018-07-31 10:54:49,463 [5] INFO  ArtemisLib.Subscriber [(null)] - Accepting message
+2018-07-31 10:54:49,463 [5] INFO  ArtemisLib.Subscriber [(null)] - started a long running job at 7/31/2018 10:54:49 AM
+2018-07-31 10:55:14,681 [5] INFO  ArtemisLib.Subscriber [(null)] - finished a long running job at 7/31/2018 10:55:14 AM
